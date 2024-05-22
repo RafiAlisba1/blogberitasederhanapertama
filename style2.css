@@ -78,7 +78,6 @@ form input[type="submit"]:hover {
   background-color: #c1dad6;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   nav ul li {
     display: block;
